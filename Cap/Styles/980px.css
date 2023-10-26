@@ -1,0 +1,6 @@
+@media only screen and (max-width: 350px) {
+    #home #row #col_1 img {
+        background: none;
+        box-shadow: none;
+    }
+}

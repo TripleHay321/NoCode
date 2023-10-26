@@ -1,0 +1,38 @@
+@media only screen and (max-width: 920px) {
+    nav {
+        border-bottom: 1px solid gold;;
+    }
+
+    #home #row #col_1 img {
+        height: 300px;
+    }
+
+    #home #row #col_1 img:hover {
+        height: 300px;
+        transition: ease-out 0.5s;
+    }
+
+    #form {
+        margin: 0% 20% 10% 20%;
+    }
+
+    #form form label {
+        font-size: 15px;
+    }
+    
+    #form form input {
+        font-size: 13px;
+    }
+
+    #home #row #col_1 {
+        margin-top: 15%;
+    }
+
+    #new_row #col #img_box button {
+        width: 80%;
+    }
+
+    #form {
+        margin: 0% 15% 10% 15%;
+    }
+}
